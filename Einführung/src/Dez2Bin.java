@@ -29,9 +29,6 @@ import javax.swing.SwingUtilities;
 * THIS MACHINE, SO JIGLOO OR THIS CODE CANNOT BE USED
 * LEGALLY FOR ANY CORPORATE OR COMMERCIAL PURPOSE.
 */
-
-// Test F.
-
 public class Dez2Bin extends javax.swing.JApplet {
 	private JLabel jLabel1;
 	private JLabel jLabel2;
