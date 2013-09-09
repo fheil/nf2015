@@ -55,6 +55,7 @@ public class Dez2Bin extends javax.swing.JApplet {
 				frame.setVisible(true);
 			}
 		});
+        System.out.println("...bin drin ;-)");
 
 	}
 	
